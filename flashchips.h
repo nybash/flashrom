@@ -1,4 +1,4 @@
-/*
+fd/*
  * This file is part of the flashrom project.
  *
  * Copyright (C) 2000 Silicon Integrated System Corporation
